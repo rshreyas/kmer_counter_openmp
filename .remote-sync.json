@@ -1,0 +1,14 @@
+{
+  "transport": "scp",
+  "hostname": "ironclaw1.cs.vt.edu",
+  "username": "shreyas2",
+  "port": 22,
+  "keyfile": "/home/shreyas/.ssh/id_rsa",
+  "target": "/home/grads/shreyas2/APC_Final_Project",
+  "uploadOnSave": true,
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "watch":[]
+}
